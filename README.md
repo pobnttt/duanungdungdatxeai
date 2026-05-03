@@ -1,2 +1,3 @@
 # duanungdungdatxeai
-Lưu ý: hãy chuyển đổi nó lại sang file ipynb trước khi đưa vào Google Colab
+CÓ CẢ FILE .py VÀ .ipynb, dùng loại nào cũng được
+Lưu ý là file .py phải chuyển về .ipynb trước khi dùng
